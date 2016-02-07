@@ -1,0 +1,34 @@
+{
+  "name": "node-milight-auto-home",
+  "version": "0.0.1",
+  "description": "Home automation lighting package for milight",
+  "main": "node-milight-auto-home.js",
+  "dependencies": {
+    "arp-monitor": "^0.1.1",
+    "node-milight-local-promise": "0.0.3",
+    "solar-calc": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cognitivegears/node-milight-auto-home.git"
+  },
+  "keywords": [
+    "milight",
+    "home",
+    "automation",
+    "limitlessled"
+  ],
+  "author": "Nathan Byrd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cognitivegears/node-milight-auto-home/issues"
+  },
+  "homepage": "https://github.com/cognitivegears/node-milight-auto-home#readme"
+}
